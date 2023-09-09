@@ -4,6 +4,7 @@
 # Stop on errors
 set -e
 
+
 cd "$(dirname "$0")/.."
 
 # Add default vscode settings if not existing
